@@ -29,6 +29,6 @@ C:\Users\USER_NAME\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\3.0.0
 
 Replace <USER_NAME> with your user name
 
-Replace <COM4> with whichever com port your tracker is connected to
+Replace COM4 with whichever com port your tracker is connected to
   
 Replace <C:\Users\<USER_NAME>\Desktop\SomaStuff\SomaSensorsVR_Tracker_Uploader-main\Uploader_For_Tracker_v0.1\Hub_Version\1.8> with whatever directory you saved the uploader folder to.
