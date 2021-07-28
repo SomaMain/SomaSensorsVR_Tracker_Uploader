@@ -1,3 +1,0 @@
-7/27/2021 7:25:10 PM - Process Start
-7/27/2021 7:25:10 PM - Baud selected: 921600
-7/27/2021 7:25:10 PM - Version: 1.8
