@@ -20,7 +20,7 @@ This will allow you to download the ESP32 board mangager.
 Click OK.
 
 # Add ESP32 Board Manager
-![](images/Additional_Board_Manager_URLs.png)
+![](images/Board_Managers_esp32.png)
 Next, in the arduino IDE Go to
 Tools > Board > Board Manager
 Search "esp32" and download the esp32 by Espressif Systems version 1.0.6
