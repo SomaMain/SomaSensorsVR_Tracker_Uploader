@@ -3,6 +3,9 @@ Upload the tracking software to the ESP32 boards (both hub and tracker)
 
 This software is currently only for ESP32 boards and MPU9250 IMUs.
 
+# Tracker Uploader GUI
+![](Images/Tracker_Uploader_Gui.png)
+
 To use this program, you will need to download the Arduino IDE : https://www.arduino.cc/en/software
 Once you have it downloaded, open up a blank project.
 Go to File > Preferences
