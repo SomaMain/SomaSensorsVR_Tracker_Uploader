@@ -42,3 +42,12 @@ Replace USER_NAME with your user name
 Replace COM4 with whichever com port your tracker is connected to
   
 Replace `C:\Users\<USER_NAME>\Desktop\SomaStuff\SomaSensorsVR_Tracker_Uploader-main\Uploader_For_Tracker_v0.1\Hub_Version\1.8` with whatever directory you saved the uploader folder to.
+
+## Version 1.7.2+
+As of version 1.7.2 there will be a Serial Menu for each tracker.
+- Simply plug the tracker into your computer
+- Open Arduino IDE
+- Open Serial Monitor
+- Set Baudrate to 115200
+- Press the EN button on the sensor to restart and show the menu.
+![](images/Tracker_Menu.png)
