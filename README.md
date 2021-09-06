@@ -43,7 +43,7 @@ Replace COM4 with whichever com port your tracker is connected to
   
 Replace `C:\Users\<USER_NAME>\Desktop\SomaStuff\SomaSensorsVR_Tracker_Uploader-main\Uploader_For_Tracker_v0.1\Hub_Version\1.8` with whatever directory you saved the uploader folder to.
 
-## Version 1.7.2+
+## Tracker Version 1.7.2+
 As of version 1.7.2 there will be a Serial Menu for each tracker.
 - Simply plug the tracker into your computer
 - Open Arduino IDE
@@ -51,3 +51,13 @@ As of version 1.7.2 there will be a Serial Menu for each tracker.
 - Set Baudrate to 115200
 - Press the EN button on the sensor to restart and show the menu.
 ![](images/Tracker_Menu.png)
+
+
+# Manual Command Code
+As of Tracker_Uploader_v0.6 there will be a 'manual command code' text box at the bottom.
+After scanning and hitting the "Upload" button, if the uploader is failing to upload the firmware correctly, you should be able to open up a command prompt and copy/paste the line of code into it to upload it manually.
+1) start menu > search > "command prompt"
+2) copy the command line from the "Manual Command Code" and hit enter
+3) When you see "....____....____...." hold down the "boot" button on your esp32 or tracker
+4) ??????
+5) profit
